@@ -1,0 +1,17 @@
+{%extends "layout/base.html"%}
+
+{%block content%}
+<form method="get">
+  <div class="mb-3 mt-3">
+    <label for="exampleInputEmail1" class="form-label">Tai Khoan</label>
+    <input type="text" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" name="tk">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Mat Khau</label>
+    <input type="password" class="form-control" id="exampleInputPassword1" name="mk">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<h1>tai khoan: {{tk}}</h1>
+<h1>mat khau: {{mk}}</h1>
+{%endblock%}

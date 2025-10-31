@@ -5,7 +5,7 @@
     "description": "Apple, 256GB, RAM: 16GB",
     "price": 25590000,
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/335362/macbook-air-13-inch-m4-11-638769622719537641-750x500.jpg",
-    "cate_id": 1
+    "category_id": 1
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "description": "Lenovo, 512GB, RAM: 16GB",
     "price": 15690000,
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/334442/lenovo-ideapad-slim-3-15irh10-i5-83k1000hvn-2-638814316997318889-750x500.jpg",
-    "cate_id": 1
+    "category_id": 1
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "description": "HP, 512GB, RAM: 16GB",
     "price": 16290000,
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/44/338207/hp-240-g10-i5-b93gzat-3-638833328604287382-750x500.jpg",
-    "cate_id": 1
+    "category_id": 1
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@
     "description": "Apple, 256GB, RAM: 12GB",
     "price": 31490000,
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/342670/iphone-air-xanh-3-638930804045233452-750x500.jpg",
-    "cate_id": 2
+    "category_id": 2
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@
     "description": "Samsung, 256GB, RAM: 12GB",
     "price": 27780000,
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/333347/galaxy-s25-ultra-xanh-duong-1-638748062746442173-750x500.jpg",
-    "cate_id": 2
+    "category_id": 2
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@
     "description": "OPPO, 512GB, RAM: 12GB",
     "price": 18650000,
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/42/339172/oppo-reno14-pro-trang-1-638882731862724702-750x500.jpg",
-    "cate_id": 2
+    "category_id": 2
   },
   {
     "id": 7,
@@ -53,7 +53,7 @@
     "description": "Apple, 256GB, RAM: 8GB",
     "price": 40690000,
     "image": "https://cdn.tgdd.vn/Products/Images/522/325534/ipad-pro-13-inch-m4-lte-sliver-1-750x500.jpg",
-    "cate_id": 3
+    "category_id": 3
   },
   {
     "id": 8,
@@ -61,7 +61,7 @@
     "description": "Samsung, 256GB, RAM: 12GB",
     "price": 34990000,
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/344725/samsung-galaxy-tab-s11-ultra-gray-1-638949165701731361-750x500.jpg",
-    "cate_id": 3
+    "category_id": 3
   },
   {
     "id": 9,
@@ -69,6 +69,6 @@
     "description": "Xiaomi, 512GB, RAM: 12GB",
     "price": 15500000,
     "image": "https://cdnv2.tgdd.vn/mwg-static/tgdd/Products/Images/522/334527/xiaomi-pad-7-pro-xam-1-638775414616675140-750x500.jpg",
-    "cate_id": 3
+    "category_id": 3
   }
 ]

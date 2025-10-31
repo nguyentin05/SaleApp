@@ -9,11 +9,14 @@
                 <li class="nav-item">
                     <a class="nav-link active" href="/">Trang Chu</a>
                 </li>
-                {%for c in cates%}
+                {%for c in categories%}
                 <li class="nav-item">
                     <a class="nav-link" href="/?cate_id={{c.id}}">{{c.name}}</a>
                 </li>
                 {%endfor%}
+                <li class="nav-item">
+                    <a class="nav-link active" href="/login">Dang Nhap</a>
+                </li>
             </ul>
             <form class="d-flex" method="get">
                 <input class="form-control me-2" type="text" placeholder="Search" name="q">

@@ -1,5 +1,15 @@
 {%extends "layout/base.html"%}
 
+{%block Title%}Chi Tiet San Pham{%endblock%}
+
 {%block content%}
-{{p}}
+<div class="row">
+    <div class="col-md-5 col-12">
+        <img src="{{p.image}}" class="img-fluid">
+    </div>
+    <div class="col-md-7 col-12">
+        <h3 class="text-info">{{p.name}}</h3>
+        <h4 class="text-danger">{{p.price}}vnd</h4>
+    </div>
+</div>
 {%endblock%}
